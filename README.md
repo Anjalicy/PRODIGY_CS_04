@@ -17,8 +17,9 @@ This is a simple keylogger implemented in Python that records keystrokes and sav
 
 1. **Clone the repository:**
 
-   git clone https://github.com/yourusername/keylogger.git
-   cd keylogger
+         git clone https://github.com/Anjalicy/PRODIGY_CS_04.git
+         cd keylogger
+   
 2.Install the required package:
 
         pip install pynput
